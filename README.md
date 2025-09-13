@@ -1,9 +1,14 @@
-# AI Chatbot with NLP
 
-Name: Komal Patil
-Domain: Python
-Duration: 6 Weeks
-Mentor: []
+# CODTECH INTERNSHIP
+
+**COMPANY**: CODTECH IT SOLUTIONS  
+**NAME**: [Komal Bhaskar Patil]  
+**INTERN ID**: [CT06DY2142]  
+**DOMAIN**: [Python Programming]  
+**DURATION**: 6 Weeks  
+**MENTOR**: [Neela Santosh Kumar]  
+
+TASK 3 - AI Chatbot with NLP
 
 ## Project Description
 
