@@ -56,10 +56,10 @@ pip install nltk
 
 ## Output 
 
-
 Run the script:
 
 python chatbot.py
 
-
 Start chatting with the bot! Type quit to exit.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a8cf7b05-ee2d-4e64-94bf-f9cfebf129b4" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/90b08fbd-9e29-4270-9b44-78bd39e7764d" />
